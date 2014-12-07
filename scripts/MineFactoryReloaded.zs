@@ -1,0 +1,1 @@
+recipes.remove(<MineFactoryReloaded:machine.2>);
